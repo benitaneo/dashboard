@@ -97,6 +97,6 @@ class Full extends Component {
       </div>
     );
   }
-}
+} //
 
 export default Full;
